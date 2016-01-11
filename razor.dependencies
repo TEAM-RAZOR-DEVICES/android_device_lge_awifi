@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "TEAM-RAZOR-DEVICES/android_kernel_lge_awifi",
+   "target_path": "kernel/lge/awifi",
+   "branch": "mm6.0"
+ },
+ {
+   "repository": "TEAM-RAZOR-DEVICES/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "branch": "mm6.0"
+ }  
+]
